@@ -18,7 +18,7 @@
 }
 
 .coin-search {
-  margin-bottom: 64px;
+  margin-bottom: 50px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -41,4 +41,38 @@
 
 .coin-input::placeholder {
   color: #e2e2e2;
+}
+
+.headers li{
+  margin-bottom: 15px;
+  list-style: none;
+  display: inline-block;
+  color: #50d1aa;
+}
+
+.name {
+  margin-left: 60px;
+  margin-right: 50px;
+}
+
+.symbol {
+  margin-left: 50px;
+}
+
+.price {
+  margin-left: 80px;
+  margin-right: 50px;
+}
+
+.volume {
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+.priceCh {
+  margin-left: 40px;
+}
+
+.border {
+    border: 1px solid white;
 }
