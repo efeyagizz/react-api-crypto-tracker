@@ -7,4 +7,4 @@
 
 React kullanılarak oluşturulmuş bir kripto takip uygulaması.
 
-<img src="site-screenshot.png" alt="website"/>
+<img src="cointracker.png" alt="website"/>
