@@ -6,5 +6,6 @@
 ### Proje Hakkında
 
 React kullanılarak oluşturulmuş bir kripto takip uygulaması.
+https://mystifying-brown-e86eec.netlify.app/
 
 <img src="cointracker.png" alt="website"/>
